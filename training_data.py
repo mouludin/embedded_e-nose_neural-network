@@ -10,8 +10,10 @@ from sklearn.preprocessing import MinMaxScaler
 import pickle
 import matplotlib.pyplot as plt
 
+dataset_name = input("Select dataset name: ").strip()
+
 # Folder tempat dataset disimpan
-dataset_folder = "dataset_faiz"
+dataset_folder = f"{dataset_name}"
 
 # Menggabungkan semua file CSV dalam folder
 all_dataframes = []
