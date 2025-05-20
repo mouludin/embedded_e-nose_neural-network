@@ -38,9 +38,10 @@ def save_to_csv(filename, data, header):
 
 try:
     sample_name = input("Input sample name/category: ").strip()
+    dataset_name = input("Select dataset name: ").strip()
     data = []
-    os.makedirs("dataset_faiz", exist_ok=True)
-    filename = f"dataset_faiz/{sample_name}.csv"
+    os.makedirs(f"{dataset_name}", exist_ok=True)
+    filename = f"{dataset_name}/{sample_name}.csv"
     
     print(f"\nRecording data for '{sample_name}'...")
     print("Press Ctrl+C to stop and save\n")
