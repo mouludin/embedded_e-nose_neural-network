@@ -148,7 +148,7 @@ model = NeuralNetwork(X_train.shape[1], len(class_names))
 
 # Loss function dan optimizer (gunakan CrossEntropyLoss yang lebih cocok)
 criterion = nn.CrossEntropyLoss()  # Untuk klasifikasi multi-kelas
-optimizer = optim.Adam(model.parameters(), lr=0.00005)
+optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # Training loop
 num_epochs = 50
