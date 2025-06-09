@@ -27,8 +27,8 @@ Designed for research in food and beverage quality prediction.
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/electronic-nose-ai.git
-cd electronic-nose-ai
+git clone https://github.com/mouludin/embedded_e-nose_neural-network.git
+cd embedded_e-nose_neural-network
 
 # Install dependencies
 pip install -r requirements.txt
