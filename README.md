@@ -11,7 +11,7 @@ This system combines:
 - **8 Gas Sensors Array** (MQ/TGS series)
 - **PyTorch Neural Network** (3-layer DNN)
 - **Real-time Prediction** with 95%+ accuracy  
-Designed for research in environmental monitoring and chemical detection.
+Designed for research in food and beverage quality prediction.
 
 ## 🛠 Hardware Requirements
 - Raspberry Pi 4 (Recommended)
