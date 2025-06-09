@@ -22,6 +22,10 @@ Designed for research in food and beverage quality prediction.
 - SPI Interface
 - 5V Power Supply
 
+## Sensor circuit on Raspberry Pi
+
+<img src="images/Circuit.png" alt="circuit">
+
 ## 🚀 Getting Started
 
 ### Installation
