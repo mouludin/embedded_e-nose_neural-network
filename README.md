@@ -12,3 +12,23 @@ This system combines:
 - **PyTorch Neural Network** (3-layer DNN)
 - **Real-time Prediction** with 95%+ accuracy  
 Designed for research in environmental monitoring and chemical detection.
+
+## 🛠 Hardware Requirements
+- Raspberry Pi 4 (Recommended)
+- Gas Sensors:
+  - MQ-3 (Alcohol)
+  - MQ-135 (Air Quality)
+  - TGS 2600-2620 Series
+- SPI Interface
+- 5V Power Supply
+
+## 🚀 Getting Started
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/yourusername/electronic-nose-ai.git
+cd electronic-nose-ai
+
+# Install dependencies
+pip install -r requirements.txt
