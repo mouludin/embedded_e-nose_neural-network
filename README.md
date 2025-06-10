@@ -24,7 +24,7 @@ Designed for research in food and beverage quality prediction.
 
 ## Sensor circuit on Raspberry Pi
 
-<img src="images/Circuit.png" alt="circuit">
+<img src="images/Circuit.png" align="center" alt="circuit">
 
 ## Neural Network Architecture
 
