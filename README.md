@@ -13,7 +13,7 @@ This system combines:
 - **Real-time Prediction** with 95%+ accuracy  
 Designed for research in food and beverage quality prediction.
 
-## 🛠 Hardware Requirements
+## Hardware Requirements
 - Raspberry Pi 4 (Recommended)
 - Gas Sensors:
   - MQ-3 (Alcohol)
@@ -25,6 +25,10 @@ Designed for research in food and beverage quality prediction.
 ## Sensor circuit on Raspberry Pi
 
 <img src="images/Circuit.png" alt="circuit">
+
+## Neural Network Architecture
+
+<img src="images/Architecture.png" alt="Architecture">
 
 ## 🚀 Getting Started
 
