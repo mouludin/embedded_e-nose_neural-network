@@ -22,10 +22,6 @@ Designed for research in food and beverage quality prediction.
 - SPI Interface
 - 5V Power Supply
 
-## Sensor circuit on Raspberry Pi
-
-<img src="images/Circuit.png" align="center" alt="circuit">
-
 ## Neural Network Architecture
 
 <img src="images/Architecture.png" alt="Architecture">
